@@ -16,8 +16,8 @@ True if the input is a valid
 sudoku square and returns the boolean False
 otherwise.
 
-# A valid sudoku square satisfies these
-# two properties:
+#### A valid sudoku square satisfies these
+#### two properties:
 
 *  1. Each column of the square contains
        each of the whole numbers from 1 to n exactly once.
